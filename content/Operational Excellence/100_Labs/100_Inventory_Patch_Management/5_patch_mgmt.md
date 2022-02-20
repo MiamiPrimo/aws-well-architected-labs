@@ -145,9 +145,8 @@ The remaining Run Command features enable you to:
    1. Choose **AWS-RunPatchBaseline** in the list.
 1. In the **Targets** section:
    1. Under **Specify targets by**, choose **Specifying a tag** to reveal the **Tags** sub-section.
-   1. Under **Enter a tag key**, enter `Workload` and under **Enter a tag value** enter `Test`.
+   1. Under **Enter a tag key**, enter `Workload` and under **Enter a tag value** enter `Test` and click **Add**.
 1. In the **Command parameters** section, change the **Operation** value to **Install**.
-1. In the **Targets** section, choose **Specify a tag** using `Workload` and `Test`.
 
 >**Note**  You could have choosen **Manually selecting instances** and used the check box at the top of the list to select all instances displayed, or selected them individually.
 
